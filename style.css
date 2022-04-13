@@ -1,0 +1,10 @@
+body{
+    padding-top: 70px;
+    background-color: rgb(245, 243, 243);
+}
+    .news-box{
+        display: flex;
+        justify-content: center;
+        justify-items: center;
+       
+    }
